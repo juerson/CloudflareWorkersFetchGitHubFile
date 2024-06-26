@@ -1,0 +1,4 @@
+name = "lively-truth-bb80"
+main = "src/index.js"
+compatibility_date = "2024-06-19"
+workers_dev = true
